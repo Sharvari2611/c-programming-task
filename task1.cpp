@@ -6,8 +6,9 @@ main()
 {
   int age,ch;
   char num[10];
-start:  printf("\nEnter your name:");
   char name[20];
+start:  printf("\nEnter your name:");
+ 
   scanf("%s",&name);
   printf("Enter your age:");
   scanf("%d",&age);
